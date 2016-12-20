@@ -1,4 +1,4 @@
-var _elm_lang$dom$Native_Dom = function() {
+var _decioferreira$dom$Native_Dom = function() {
 
 var fakeNode = {
 	getElementById: function() { return null; },
